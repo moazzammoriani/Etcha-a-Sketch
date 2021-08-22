@@ -1,5 +1,5 @@
 let screen = document.querySelector(".screen");
-let resolution = 16;
+let resolution = 32;
 
 function createPixelRow() {
     let pixelRow = document.createElement("div");
